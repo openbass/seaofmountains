@@ -1,0 +1,2 @@
+sanic==19.12.2
+asyncio-redis-ha==0.1.1
